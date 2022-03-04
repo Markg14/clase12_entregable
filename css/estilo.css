@@ -1,0 +1,40 @@
+li{ /*NAV SEPARADOS*/
+    margin: 20px;
+}
+button{ /*BOTON CONTACTANOS*/
+    border: 0px;
+    background-color: rgb(220, 20, 60);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(129, 13, 36);
+    transition: 0.5s;
+}
+.navbar-collapse{ /*NAV A LA DERECHA*/
+    justify-content: flex-end;
+}
+.footerBg{
+    background-color: darkgrey;
+    margin-top: 10px;
+    padding: 30px;
+    text-align: center;
+}
+.centrar{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+body{
+    background-color: #232323;
+}
+header{
+    background-color: white;
+}
+.text{
+    color: white;
+}
+.card{
+    padding: 30px;
+}
